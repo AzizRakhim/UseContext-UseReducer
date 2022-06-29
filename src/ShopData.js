@@ -238,5 +238,47 @@ export const shopData = [
     price: 50,
     imageUrl:
       "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTjr1HJSeba_PuPr9f8eWrr6ldbqSP22tGjGQ5tvfwH6B02jIon"
+  },
+  {
+    name: "Prison Break",
+    price: 200,
+    imageUrl:
+      "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQl7bfHIT--uPz1n--McGqezh6ymUUyjyWEKl8u1GIP9TGx01uq"
+  },
+  {
+    name: "Offender",
+    price: 400,
+    imageUrl:
+      "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTWbsXtpeMfGRGHRJR_zpJyBbVvWr3-xGx06tcAo1Mem_dLxPXL"
+  },
+  {
+    name: "Vikings",
+    price: 100,
+    imageUrl:
+      "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTQOtj4pUXP9fzyUz5gVYkZt3_1Z1gCNsGEPmT5snx_Xxhp0UNo"
+  },
+  {
+    name: "In Time",
+    price: 50,
+    imageUrl:
+      "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTallr69g7uXzNcxB0dq0-KQ9YkAK_4FpCHdK8yMu9nnOiVDeCD"
+  },
+  {
+    name: "Hercules: The Animated Series",
+    price: 200,
+    imageUrl:
+      "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTRKYm3W94QlMsB1Flhe0brBULi1lVUazJ867XB8piuVXpOwsFF"
+  },
+  {
+    name: "Open Season",
+    price: 100,
+    imageUrl:
+      "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSZHUkgLSKwWbvhB07EYR6ujV-LaZNvWlfXsFTaB00Ev0VmSSrh"
+  },
+  {
+    name: "Chip 'n Dale's Rescue Rangers",
+    price: 200,
+    imageUrl:
+      "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTylCHOLQX6wiTOAUBm_alFA9JqVYPU-Ervppfr4cRBK3-usUwf"
   }
 ];
