@@ -1,5 +1,11 @@
 export const shopData = [
   {
+    name: "Warrior",
+    price: 400,
+    imageUrl:
+      "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS6DiCYyXKnBUi4ctZY59CnGDSvjwpQhtIL5y785WuTXSsxGyoc"
+  },
+  {
     name: "Top Gun: Maverick",
     price: 400,
     imageUrl:
