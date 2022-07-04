@@ -1,5 +1,23 @@
 export const shopData = [
   {
+    name: "22 Jump Street",
+    price: 50,
+    imageUrl:
+      "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQaoamRKQDYxVXvXg6LUl6brQmMdFbpZvOQ2G_nD6u5uq16tiVh"
+  },
+  {
+    name: "21 Jump Street",
+    price: 100,
+    imageUrl:
+      "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT_h9zhj7NlKNRU9ZtUH_rUJw593COMsUPx9gYNmkdND02-OMmS"
+  },
+  {
+    name: "Euphoria",
+    price: 200,
+    imageUrl:
+      "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ7d2fmTNpP9c2syvTyvj70hJROK7B0C-eHwhz88IxW9u8aDItw"
+  },
+  {
     name: "Warrior",
     price: 400,
     imageUrl:
