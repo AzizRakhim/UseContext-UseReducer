@@ -1,5 +1,17 @@
 export const shopData = [
   {
+    name: "District 13",
+    price: 400,
+    imageUrl:
+      "https://m.media-amazon.com/images/M/MV5BM2U4YmU4NWYtYzZkOC00MTY5LThjMzMtZDQ3ZTMzMTM0ODg2XkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_.jpg"
+  },
+  {
+    name: "Banlieue 13: Ultimatum",
+    price: 400,
+    imageUrl:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjS7Giv69g6jlsA0BrzMAzmXBfm0NBlhCfS--HNZHbjGmcBUHb"
+  },
+  {
     name: "22 Jump Street",
     price: 50,
     imageUrl:
