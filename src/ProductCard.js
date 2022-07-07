@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import styled from "styled-components";
 import useShop from "./ShopContext";
 
-const ProductCard = ({ name, imageUrl, price }) => {
+const ProductCard = ({ name, imageUrl, year }) => {
   const { products, addToCart, removeFromCart } = useShop();
   const [isInCart, setIsInCart] = useState(false);
 
@@ -17,7 +17,7 @@ const ProductCard = ({ name, imageUrl, price }) => {
   }, [products, name]);
 
   const handleClick = () => {
-    const product = { name, imageUrl, price };
+    const product = { name, imageUrl, year };
 
     if (isInCart) {
       removeFromCart(product);
@@ -33,7 +33,7 @@ const ProductCard = ({ name, imageUrl, price }) => {
       </AddButton>
       <TextContainer>
         <Title>{name}</Title>
-        <Subtitle>{price}.00$</Subtitle>
+        <Subtitle>Year: {year}</Subtitle>
       </TextContainer>
     </Wrapper>
   );

@@ -21,13 +21,7 @@ const shopReducer = (state, action) => {
         ...state,
         products: payload.products
       };
-    case "UPDATE_PRICE":
-      console.log("UPDATE_PRICE", payload);
-
-      return {
-        ...state,
-        total: payload.total
-      };
+      
     default:
       throw new Error(`No case for type ${type} found in shopReducer.`);
   }
