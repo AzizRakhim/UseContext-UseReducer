@@ -1,5 +1,17 @@
 export const shopData = [
   {
+    name: "King Arthur: Legend of the Sword",
+    year: 2017,
+    imageUrl:
+      "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTCHSSIUDuPlu6lEgMrfT2VNltCR2EDaIGAmehXHxjKfql82nMC"
+  },
+  {
+    name: "Robin Hood",
+    year: 2018,
+    imageUrl:
+      "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ0zpioa7jsCCLOIro0SaJa6qZpvSQ1P29tYtYxl1e-YqkevK_8"
+  },
+  {
     name: "Need for Speed",
     year: 2014,
     imageUrl:
