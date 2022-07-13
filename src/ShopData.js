@@ -1,5 +1,11 @@
 export const shopData = [
   {
+    name: "Sky Ladder: The Art of Cai Guo-Qiang",
+    year: 2016,
+    imageUrl:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnQiSPc9adWwbn1UhzlI3X186VcgCmwngtT-y4u9kg9LvIwYmW"
+  },
+  {
     name: "King Arthur: Legend of the Sword",
     year: 2017,
     imageUrl:
